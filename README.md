@@ -1,6 +1,6 @@
 # Getting Started 
 
-clone this repo - [git clone https://github.com/satyamy846/twitter-post-login-api]
+clone this repo - [git clone https://github.com/satyamy846/twitter-post-login-api.git]
 
 ## Available Scripts
 
@@ -10,7 +10,7 @@ npm install
 
 see .env.example file
 
-TWITTER_CLIENT_ID = your_twitter_client_id
+TWITTER_CLIENT_ID = your_twitter_client_id \
 PORT = your_port_no
 
 ### `npm start`
